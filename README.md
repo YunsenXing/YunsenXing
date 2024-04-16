@@ -2,11 +2,9 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunsenXing&show_icons=true&theme=gruvbox)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunsenXing&show_icons=true&theme=gruvbox)](https://github.com/YunsenXing)
 
 </div>
-
-![头像](image/photo.gif)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/YunsenXing/count.svg)
